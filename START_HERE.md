@@ -324,14 +324,17 @@ Everything you need is now documented and ready to use:
 | CUSTOMIZATION_INDEX.md | 11KB | Navigation & Overview | ⭐⭐⭐ Start here |
 | QUICK_START.md | 4.4KB | Fast setup guide | ⭐⭐⭐ Use first |
 | PRIVACY_AND_LICENSING.md | 12KB | Privacy questions | ⭐⭐⭐ Read for privacy |
+| SAUDI_AGRICULTURE_GUIDE.md | 36KB | Saudi agriculture deployment | ⭐⭐⭐ For KSA projects |
 | FORKING_GUIDE.md | 13KB | Complete reference | ⭐⭐ Reference |
 | CUSTOMIZATION_CHECKLIST.md | 9.7KB | Progress tracking | ⭐⭐ Use ongoing |
 
-**Total Documentation**: ~50KB of comprehensive guides
+**Total Documentation**: ~86KB of comprehensive guides
 
 ---
 
-**Questions?** Everything is answered in one of these five documents!
+**Questions?** Everything is answered in one of these documents!
+
+**Saudi Arabia Agricultural Project?** See [SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.md)!
 
 **Good luck with your ERPNext customization!** 🎊
 

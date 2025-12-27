@@ -165,6 +165,7 @@ git cherry-pick <commit-hash>
 
 - **Detailed Guide**: [FORKING_GUIDE.md](./FORKING_GUIDE.md)
 - **Privacy & Licensing**: [PRIVACY_AND_LICENSING.md](./PRIVACY_AND_LICENSING.md)
+- **Saudi Agriculture**: [SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.md) ⭐ NEW!
 - **Checklist**: [CUSTOMIZATION_CHECKLIST.md](./CUSTOMIZATION_CHECKLIST.md)
 - **ERPNext Docs**: https://docs.erpnext.com/
 - **Frappe Docs**: https://frappeframework.com/docs

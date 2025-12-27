@@ -4,6 +4,53 @@ Welcome! This index helps you navigate all the documentation for forking and cus
 
 ---
 
+## 🌾 Special: Saudi Arabia Agricultural Projects
+
+**Deploying ERPNext for agriculture in Saudi Arabia?**
+
+See the comprehensive **[SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.md)** covering:
+
+✅ **Regulatory Compliance**
+- MEWA (Ministry of Environment, Water and Agriculture)
+- NCEC (National Center for Environmental Compliance)
+- Labor law requirements (HRSD, GOSI)
+- ZATCA (Tax and customs)
+
+✅ **Licensing and Permits**
+- Agricultural production licenses
+- Water extraction permits
+- Environmental permits
+- Commercial registration
+- Food safety licenses
+
+✅ **Complete Task List**
+- 150+ detailed tasks across 9 phases
+- Role assignments (Legal, Operations, Technical, etc.)
+- Timelines and dependencies
+- Status tracking
+
+✅ **Entity Formation**
+- SPV (Special Purpose Vehicle) creation
+- Farmer company formation
+- Cooperative structures
+- Capitalization requirements
+
+✅ **Implementation Roadmap**
+- 24-30 week timeline
+- From consulting to operations
+- Design through deployment
+- Compliance integration
+
+✅ **ERP Configuration**
+- Agriculture-specific modules
+- Saudi regulatory integrations
+- Arabic/Hijri support
+- ZATCA e-invoicing
+
+**[→ Open Saudi Agriculture Guide](./SAUDI_AGRICULTURE_GUIDE.md)**
+
+---
+
 ## 🎯 Start Here
 
 **New to forking?** Start with this:
@@ -25,6 +72,7 @@ Welcome! This index helps you navigate all the documentation for forking and cus
 | **[QUICK_START.md](./QUICK_START.md)** | Get started fast | First time setup |
 | **[FORKING_GUIDE.md](./FORKING_GUIDE.md)** | Comprehensive guide | Deep dive into customization |
 | **[PRIVACY_AND_LICENSING.md](./PRIVACY_AND_LICENSING.md)** | Privacy & legal info | Before making repository private/public |
+| **[SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.md)** ⭐ NEW | Saudi Arabia agriculture deployment | Agricultural projects in KSA |
 | **[CUSTOMIZATION_CHECKLIST.md](./CUSTOMIZATION_CHECKLIST.md)** | Track progress | Throughout customization process |
 
 ### Original ERPNext Documentation
