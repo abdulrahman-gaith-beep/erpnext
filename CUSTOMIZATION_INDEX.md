@@ -41,13 +41,20 @@ See the comprehensive **[SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.m
 - Design through deployment
 - Compliance integration
 
+✅ **Regulatory Workflow Automation** → See [REGULATORY_WORKFLOWS_INTEGRATION.md](./REGULATORY_WORKFLOWS_INTEGRATION.md)
+- Automated compliance workflows for MEWA, NCEC, ZATCA, GOSI
+- GitHub repository integrations (ZATCA e-invoicing, IoT sensors, ML crop prediction)
+- API integration examples
+- Workflow diagrams and code samples
+
 ✅ **ERP Configuration**
 - Agriculture-specific modules
 - Saudi regulatory integrations
 - Arabic/Hijri support
 - ZATCA e-invoicing
 
-**[→ Open Saudi Agriculture Guide](./SAUDI_AGRICULTURE_GUIDE.md)**
+**[→ Open Saudi Agriculture Guide](./SAUDI_AGRICULTURE_GUIDE.md)**  
+**[→ Open Workflows & Integration Guide](./REGULATORY_WORKFLOWS_INTEGRATION.md)**
 
 ---
 
@@ -72,7 +79,8 @@ See the comprehensive **[SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.m
 | **[QUICK_START.md](./QUICK_START.md)** | Get started fast | First time setup |
 | **[FORKING_GUIDE.md](./FORKING_GUIDE.md)** | Comprehensive guide | Deep dive into customization |
 | **[PRIVACY_AND_LICENSING.md](./PRIVACY_AND_LICENSING.md)** | Privacy & legal info | Before making repository private/public |
-| **[SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.md)** ⭐ NEW | Saudi Arabia agriculture deployment | Agricultural projects in KSA |
+| **[SAUDI_AGRICULTURE_GUIDE.md](./SAUDI_AGRICULTURE_GUIDE.md)** ⭐ | Saudi Arabia agriculture deployment | Agricultural projects in KSA |
+| **[REGULATORY_WORKFLOWS_INTEGRATION.md](./REGULATORY_WORKFLOWS_INTEGRATION.md)** ⭐ NEW | Workflow automation & GitHub integrations | Building compliance workflows |
 | **[CUSTOMIZATION_CHECKLIST.md](./CUSTOMIZATION_CHECKLIST.md)** | Track progress | Throughout customization process |
 
 ### Original ERPNext Documentation

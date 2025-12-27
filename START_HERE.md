@@ -325,10 +325,11 @@ Everything you need is now documented and ready to use:
 | QUICK_START.md | 4.4KB | Fast setup guide | ⭐⭐⭐ Use first |
 | PRIVACY_AND_LICENSING.md | 12KB | Privacy questions | ⭐⭐⭐ Read for privacy |
 | SAUDI_AGRICULTURE_GUIDE.md | 36KB | Saudi agriculture deployment | ⭐⭐⭐ For KSA projects |
+| REGULATORY_WORKFLOWS_INTEGRATION.md | 27KB | Workflow automation & integrations | ⭐⭐⭐ For implementation |
 | FORKING_GUIDE.md | 13KB | Complete reference | ⭐⭐ Reference |
 | CUSTOMIZATION_CHECKLIST.md | 9.7KB | Progress tracking | ⭐⭐ Use ongoing |
 
-**Total Documentation**: ~86KB of comprehensive guides
+**Total Documentation**: ~113KB of comprehensive guides
 
 ---
 
